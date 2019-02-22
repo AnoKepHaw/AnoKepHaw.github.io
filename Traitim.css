@@ -8,7 +8,7 @@
 	position:absolute;
 	transform: translate(-50%,-50%);
 	animation: heart 1s ease infinite;
-	background: -webkit-linear-gradient(direction,blue,green,red,pink,yellow);
+	color: -webkit-linear-gradient(direction,blue,green,red,pink,yellow);
 }
 .chu {
 	text-align: center;
